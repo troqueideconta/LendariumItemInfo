@@ -1,0 +1,6 @@
+name: LendariumItemInfo
+main: vaz.lucas.silva.Main
+author: Vaaaaz
+version: 1.0
+commands:
+  iteminfo:
